@@ -1,4 +1,4 @@
-# 🏍️ Motorcycle Parts Wholesale Revenue Analysis
+# Motorcycle Parts Wholesale Revenue Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-%3E%3D1.0-green)](https://pandas.pydata.org/)
