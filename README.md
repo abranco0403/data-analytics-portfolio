@@ -45,7 +45,7 @@ I’m particularly interested in roles where I can combine my analytical and com
 
 - 📧 Email: [alessandrobranco90@gmail.com]  
 - 💼 LinkedIn: [www.linkedin.com/in/alessandro-branco]
-- 🌐 Personal Website: [alessandrobranco.com]
+- 🌐 Personal Website: [https://alessandrobranco.com/]
 
 ---
 
