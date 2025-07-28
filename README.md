@@ -33,6 +33,15 @@ I’m particularly interested in roles where I can combine my analytical and com
 
 ---
 
+## 📊 Featured Projects
+
+### 🏍️ Motorcycle Parts Sales Analysis  
+**Skills:** SQL, Python, Jupyter, Visualization, Business Insights  
+Analyzed 3 months of wholesale sales data across three warehouses and product lines. Delivered insights on warehouse performance, top products, and seasonal trends.  
+🔗 [View Project](https://github.com/abranco0403/data-analytics-portfolio/tree/main/motorcycle-sales-analysis)
+
+---
+
 ## 🚀 Goals
 
 - Apply my analytical skills in real-world business environments  
