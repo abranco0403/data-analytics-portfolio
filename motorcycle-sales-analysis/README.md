@@ -1,63 +1,68 @@
 # 🏍️ Motorcycle Parts Wholesale Revenue Analysis
 
-## 📘 Project Overview
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%3E%3D1.0-green)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%3E%3D0.13-orange)](https://seaborn.pydata.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-3.39.0-lightgrey)](https://www.sqlite.org/index.html)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 
-This project analyzes wholesale sales data from a motorcycle parts retailer operating three warehouses (North, Central, and West) over a 3-month period: **June to August**. The goal is to uncover:
+---
 
-- Revenue trends by product line
-- Seasonal sales variation
-- Warehouse performance insights
+## 📌 Project Overview
 
-The board wanted to optimize inventory and better understand where revenue is concentrated across their wholesale business.
+This project analyzes wholesale sales data from a motorcycle parts retailer operating across three warehouses (North, Central, and West) during the period **June to August**. The main objectives are to:
+
+- Identify revenue trends by product line  
+- Understand seasonal sales variations  
+- Gain insights into warehouse performance  
+
+These insights help the company optimize inventory management and focus on revenue-driving areas of the wholesale business.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **SQL (SQLite)** – for data filtering, aggregation, and transformation
-- **Pandas** – for DataFrame manipulation and integration with SQL
-- **Seaborn & Matplotlib** – for building visualizations
-- **Jupyter Notebook** – for end-to-end analysis and storytelling
+- **SQL (SQLite):** For efficient data filtering, aggregation, and transformation  
+- **Pandas:** For seamless DataFrame manipulation and integration with SQL  
+- **Seaborn & Matplotlib:** For creating insightful visualizations  
+- **Jupyter Notebook:** For interactive data analysis and storytelling  
 
 ---
 
-## 📊 Key Results
+## 📊 Key Findings
 
-- 📦 **Central warehouse** outperformed all others in total revenue across all months
-- 🔧 **Braking systems** and **engine parts** were the top-performing product lines
-- 📉 **August** saw dips in multiple categories — possibly seasonal or supply-related
-- 📈 **July** was the strongest month overall for wholesale performance
+- 📦 The **Central warehouse** consistently outperformed North and West warehouses in total revenue across all months  
+- 🔧 **Braking systems** and **engine parts** emerged as the highest revenue-generating product lines  
+- 📉 A noticeable dip in sales during **August** suggests possible seasonal effects or supply chain issues  
+- 📈 **July** was the peak month for wholesale sales performance  
 
 ---
 
 ## ✅ Business Recommendations
 
-- Focus on **top-performing product lines** in underperforming warehouses
-- Reevaluate inventory levels and demand forecasting for August
-- Continue scaling operations at the Central warehouse
-- Consider seasonal marketing campaigns for July
+- Prioritize **top-performing product lines** in warehouses with lower revenue  
+- Review and adjust inventory levels and demand forecasting for August to mitigate dips  
+- Continue scaling and investing in the **Central warehouse** operations  
+- Leverage seasonal marketing strategies, particularly targeting peak months like July  
 
 ---
 
-## 📈 Visualizations
+## 📈 Visualizations Included
 
-The notebook includes:
+The Jupyter Notebook features:
 
-- 📊 **Bar chart**: Revenue by warehouse and month
-- 📈 **Line chart**: Product line performance trends
-- 🧩 **Pie chart**: Revenue share by product line
-- 🔥 **Heatmap**: Monthly product performance
+- 📊 **Bar charts** showing revenue distribution by warehouse and month  
+- 📈 **Line charts** illustrating product line performance trends over time  
+- 🧩 **Pie charts** depicting revenue share across product lines  
+- 🔥 **Heatmaps** highlighting monthly sales performance per product  
 
-Each chart is followed by Markdown insights summarizing key takeaways.
+Each visualization is complemented by detailed markdown insights explaining key observations.
 
 ---
 
-## 💻 How to Run This Project
+## 🚀 How to Run
 
-1. Clone this repository or download the files
-2. Open the notebook `motorcycle-sales-analysis.ipynb` using Jupyter
-3. Run the cells sequentially
-4. (Optional) Install packages with:
-
-```bash
-pip install pandas matplotlib seaborn sqlalchemy ipython-sql
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/motorcycle-parts-analysis.git
+   cd motorcycle-parts-analysis
