@@ -61,4 +61,4 @@ To analyze SAT scores from NYC public schools and uncover:
 ### 🗽 Borough with Highest SAT Score Variation
 - One borough shows the largest performance spread.
 - Highlights inequalities and potential focus areas.
-  ![Borough with Highest SAT Score Variation](assets/SAT_score.jpg)
+  ![Borough with Highest SAT Score Variation](assets/SAT_scores.jpg)
