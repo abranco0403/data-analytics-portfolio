@@ -56,9 +56,9 @@ To analyze SAT scores from NYC public schools and uncover:
 ### 🥇 Top 10 Total SAT Scores
 - Ranked by combined Math + Reading + Writing scores.
 - Top 10 schools show balanced academic excellence.
-![top 10_total_SAT Scores](assets/top10_SAT_scores.jpg.jpg)
+![top 10_total_SAT Scores](assets/top10_SAT_scores.jpg)
 
 ### 🗽 Borough with Highest SAT Score Variation
 - One borough shows the largest performance spread.
 - Highlights inequalities and potential focus areas.
-  ![Borough with Highest SAT Score Variation](assets/SAT_scores.jpg)
+  ![Borough with Highest SAT Score Variation](assets/SAT_score.jpg)
