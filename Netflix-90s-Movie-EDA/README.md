@@ -1,4 +1,4 @@
-# SQL & Python EDA on Netflix Movie Data: Trends in 1990s Film Duration and Genre
+# Netflix 90s Movies EDA
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-%3E%3D1.0-green)](https://pandas.pydata.org/)
