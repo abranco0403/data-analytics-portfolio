@@ -61,7 +61,7 @@ To explore Netflix’s 1990s movie catalog and uncover:
   4. Thrillers
   5. Horror Movies
 
-![Top Genres](assets/top5_genres_90s_netflix)
+![Top Genres](assets/top5_genres_90s_netflix.jpg)
 
 ### 🎥 Most Prolific Directors
 - Several directors contributed **multiple titles** during the 1990s, showing consistency in output across that decade.
