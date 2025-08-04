@@ -1,61 +1,97 @@
+![Data Analytics Portfolio Banner](https://raw.githubusercontent.com/abranco0403/data-analytics-portfolio/main/assets/banner.png)
+
 # 📊 Data Analytics Portfolio – Alessandro Branco
 
-Welcome to my data analytics portfolio! This repository is designed to showcase my ability to turn raw data into actionable business insights using a combination of **Python**, **SQL**, and **Power BI**.
+Welcome to my **Data Analytics Portfolio**, showcasing practical, real-world projects where I transform raw data into business insights using **Python**, **SQL**, and **Power BI**.
 
-With a strong foundation in sales management and business strategy, I bring a real-world perspective to data — focusing not just on numbers, but on impact.
+With a background in **sales management and education**, I bring domain knowledge and analytical rigor to every project — helping organizations make smarter, data-informed decisions.
+
+---
+
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%3E=1.5-green?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/abranco0403)
 
 ---
 
 ## 💼 About Me
 
-I'm a data-driven problem solver with a background in sales and education, transitioning into analytics with a passion for uncovering insights that support smart, strategic decisions. I approach each project with a clear goal: **understand the business context, explore the data thoroughly, and communicate findings clearly and visually.**
+I'm a data-driven problem solver transitioning from sales and education into analytics. My core strength is translating messy or complex data into clear, actionable insights that support business decisions.
 
-I’m particularly interested in roles where I can combine my analytical and communication skills to improve operations, understand customer behavior, or optimize performance.
+I'm passionate about:
+- uncovering patterns in data,
+- improving operational efficiency,
+- enhancing customer understanding,
+- and presenting insights in simple, visual formats that drive results.
 
 ---
 
 ## 🧰 Technical Skills
 
-- **Python** – Data cleaning, analysis, and visualization using `Pandas`, `NumPy`, `Matplotlib`, and `Seaborn`
-- **SQL** – Writing advanced queries using joins, subqueries, CTEs, aggregation, and window functions
-- **Power BI** – Building interactive dashboards, data modeling, DAX calculations, and KPI visualizations
-- **Excel** – Advanced functions, pivot tables, and data wrangling
-- **Version Control** – Git & GitHub for collaboration and tracking project development
+- **Python:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, Jupyter Notebooks  
+- **SQL:** Complex queries using `JOINs`, `CTEs`, `aggregations`, `window functions`  
+- **Power BI:** Dashboard design, DAX calculations, storytelling through visuals  
+- **Excel:** Pivot tables, data wrangling, advanced formulas  
+- **Version Control:** Git & GitHub for collaboration and project tracking  
 
 ---
 
-## 🧠 What I Focus On
+## 🎯 Core Focus Areas
 
-- **Data Cleaning** – Ensuring data integrity and readiness before analysis  
-- **Exploratory Data Analysis** – Identifying trends, outliers, and key variables  
-- **Storytelling with Data** – Using dashboards, charts, and concise summaries to make insights actionable  
-- **Business Impact** – Prioritizing analyses that support operational decisions and performance improvement  
+- 🔍 **Data Cleaning** – Ensuring high-quality data for accurate analysis  
+- 📊 **Exploratory Analysis** – Uncovering key patterns and drivers  
+- 🧠 **Data Storytelling** – Communicating insights clearly and visually  
+- 💼 **Business Impact** – Tying analysis directly to operational improvements  
 
 ---
 
 ## 📊 Featured Projects
 
-### 🏍️ Motorcycle Parts Sales Analysis  
-**Skills:** SQL, Python, Jupyter, Visualization, Business Insights  
-Analyzed 3 months of wholesale sales data across three warehouses and product lines. Delivered insights on warehouse performance, top products, and seasonal trends.  
+### 🏍️ Motorcycle Parts Wholesale Revenue Analysis  
+**Skills:** SQL, Python, Jupyter, Visualization  
+Analyzed 3 months of wholesale sales across three warehouses and product lines. Delivered insights on performance, top-selling items, and demand seasonality.  
 🔗 [View Project](https://github.com/abranco0403/data-analytics-portfolio/tree/main/motorcycle-sales-analysis)
 
 ---
 
-## 🚀 Goals
+### 🎬 Netflix 90s Movies Exploratory Data Analysis  
+**Skills:** Python, Pandas, Data Visualization  
+Explored 1990s Netflix movie data to identify genre trends, popularity metrics, and user behavior insights.  
+🔗 [View Project](https://github.com/abranco0403/data-analytics-portfolio/tree/main/netflix-90s-eda)
 
-- Apply my analytical skills in real-world business environments  
-- Join a data-driven team where I can continue learning while contributing meaningfully  
-- Grow into a role focused on data analytics, business intelligence, or data science
+---
+
+### 🏫 NYC Public School Test Scores Analysis  
+**Skills:** SQL, Data Cleaning, Reporting  
+Examined NYC school performance metrics to determine schools with the strongest math results. Identified score distribution patterns and outliers.  
+🔗 [View Project](https://github.com/abranco0403/data-analytics-portfolio/tree/main/nyc-school-test-scores)
+
+---
+
+### 🧠 Mental Health Analysis of International Students  
+**Skills:** Python, Data Wrangling, Visualization  
+Analyzed mental health survey results from international students to uncover stress patterns and key wellness indicators.  
+🔗 [View Project](https://github.com/abranco0403/data-analytics-portfolio/tree/main/mental-health-analysis)
+
+---
+
+## 🚀 Career Goals
+
+- Apply data analytics in a real-world business environment  
+- Join a data-driven team focused on efficiency, performance, and insights  
+- Grow into a role in data analysis, BI, or data science with room to evolve and contribute  
 
 ---
 
 ## 📬 Let’s Connect
 
-- 📧 Email: [alessandrobranco90@gmail.com]  
-- 💼 LinkedIn: [www.linkedin.com/in/alessandro-branco]
-- 🌐 Personal Website: [https://alessandrobranco.com/]
+- 📧 Email: [alessandrobranco90@gmail.com](mailto:alessandrobranco90@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/alessandro-branco](https://www.linkedin.com/in/alessandro-branco)  
+- 🌐 Portfolio Website: [https://alessandrobranco.com](https://alessandrobranco.com)
 
 ---
 
-*Thank you for visiting my portfolio! I'm open to entry-level data analyst roles and eager to make a meaningful contribution to your team.*
+_Thanks for visiting my portfolio! I'm currently open to entry-level data analyst roles and eager to deliver actionable insights to forward-thinking teams._
+
